@@ -1,1 +1,3 @@
 this is my first learning git file.
+
+the second line to text some another feature and command of git.
